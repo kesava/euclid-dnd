@@ -13,7 +13,7 @@ A simple exercise to learn `loop` and `recur` by implementing Euclid's algorithm
 ;; 1
 (biggestSq 230 170)
 ;; 10
-
+```
 ## License
 
 2018 Kesava Mallela
